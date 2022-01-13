@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Guilherme and welcome to my University Github!
+![](https://visitor-badge.laobi.icu/badge?page_id=BichoTraveco.BichoTraveco)
 
 <!--
 **BichoTraveco/BichoTraveco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
