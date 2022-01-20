@@ -37,4 +37,6 @@
 </p>
 
 ## My GitHub Stats 🥇:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BichoTraveco&hide=Roff,Tex,Shell&langs_count=8&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BichoTraveco&show_icons=true&theme=tokyonight)
