@@ -41,6 +41,3 @@
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BichoTraveco&show_icons=true&theme=tokyonight)
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BichoTraveco&count_private=true&langs_count=8&hide=TeX,roff,shell" />
-</a>
