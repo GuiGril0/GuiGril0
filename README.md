@@ -38,8 +38,7 @@
 <a href="mailto:guigrilo911@gmail.com" target="blank"> <img align="center" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-## My GitHub Stats 🥇:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BichoTraveco&hide=Roff,Tex,Shell&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BichoTraveco&theme=tokyonight)
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BichoTraveco&show_icons=true&theme=tokyonight)
 <br>
