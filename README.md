@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
-![](https://visitor-badge.laobi.icu/badge?page_id=GuiGril0.GuiGril0)
+![](https://visitor-badge.laobi.icu/badge?page_id=BichoTraveco.BichoTraveco)
 [![Github](https://img.shields.io/github/followers/GuiGril0?label=Follow&style=social)](https://github.com/GuiGril0)
 
 - I’m currently learning Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/Java.png?raw=true" alt="Java" width="30" height="30"/> </a>
