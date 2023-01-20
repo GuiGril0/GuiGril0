@@ -38,9 +38,8 @@
 <a href="mailto:guigrilo911@gmail.com" target="blank"> <img align="center" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGril0&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGril0&theme=tokyonight&hide=prolog,assembly)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiGril0)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiGril0&show_icons=true&theme=tokyonight)
 <br>
