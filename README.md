@@ -8,6 +8,7 @@
 [![Github](https://img.shields.io/github/followers/GuiGril0?label=Follow&style=social)](https://github.com/GuiGril0)
 
 - I’m currently learning Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/Java.png?raw=true" alt="Java" width="30" height="30"/> </a>
+- I'm currently learning OutSystems <a href ="#" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/OutSystems.png?raw=true" alt="OutSystems" width="30" height="30"/> </a>
 
 
 
