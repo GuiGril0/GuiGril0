@@ -32,7 +32,8 @@ src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/kotlin_logo.p
 [<img align="left" alt="VSCode" width="37px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/Visual_Studio_Code.png?raw=true" />]()
 [<img align="left" alt="GitHub" width="37px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/Github.png?raw=true" />]()
 [<img align="left" alt="Mooshak" width="60px" height="40px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/mooshak_logo.jpg?raw=true" />]()
-
+[<img align="left" alt="Service Studio" width="30px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/service_studio_logo.png?raw=true" />]()
+[<img align="left" alt="Android Studio" width="30px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/android_studio_logo.png?raw=true" />]()
 <br>
 
 ## Connect with me 🧑‍💻:
