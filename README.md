@@ -30,6 +30,7 @@ src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/kotlin_logo.p
 [<img align="left" alt="Linux" width="30px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/Linux.png?raw=true" />]()
 [<img align="left" alt="Ubuntu" width="35px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/ubuntu.png?raw=true" />]()
 [<img align="left" alt="Kali Linux" width="35px" height="35px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/kali_logo.png?raw=true" />]()
+[<img align="left" alt="Microsoft Windows" width="35px" height="35px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/microsoft_logo.png?raw=true" />]()
 [<img align="left" alt="VSCode" width="37px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/Visual_Studio_Code.png?raw=true" />]()
 [<img align="left" alt="GitHub" width="37px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/Github.png?raw=true" />]()
 [<img align="left" alt="Mooshak" width="60px" height="40px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/mooshak_logo.jpg?raw=true" />]()
