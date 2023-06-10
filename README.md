@@ -9,8 +9,8 @@
 
 - I'm currently learning OutSystems <a href ="#" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/OutSystems.png?raw=true" alt="OutSystems" width="30" height="30"/> </a>
 - I did an internship at KPMG Portugal <a href ="#" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/KPMG_logo.svg.png?raw=true" alt="KPMG" width="40" height="30"/> </a>
-- I'm currently learning Kotlin <img 
-src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/kotlin_logo.png?raw=true" alt="Kotlin" width="40" height="30"/>
+- I'm currently learning Kotlin <a href="#" target="_blank" rel="norferrer"> <img 
+src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/kotlin_logo.png?raw=true" alt="Kotlin" width="40" height="30"/> </a>
 
 
 
@@ -22,6 +22,7 @@ src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/kotlin_logo.p
 [<img align="left" alt="PostgreSQL" width="30px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/Postgresql.png?raw=true" />]()
 [<img align="left" alt="Python" width="30px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/python_logo.png?raw=true" />]()
 [<img align="left" alt="OutSystems" width="40px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/OutSystems.png?raw=true" />]()
+[<img align="left" alt="Kotlin" width="40px" src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/kotlin_logo.png?raw=true" />]()
 
 <br>
 
