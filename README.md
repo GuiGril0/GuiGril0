@@ -45,7 +45,7 @@ src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/kotlin_logo.p
 <a href="mailto:guigrilo911@gmail.com" target="blank"> <img align="center" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGril0&Theme=TokyoNight&size_weight=0.5&count_weight=0.5&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGril0&Theme=tokyonight&size_weight=0.5&count_weight=0.5&langs_count=8)
 <br>
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiGril0&show_icons=true&theme=tokyonight)
