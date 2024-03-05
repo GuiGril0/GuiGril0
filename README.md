@@ -7,8 +7,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=BichoTraveco.BichoTraveco)
 [![Github](https://img.shields.io/github/followers/GuiGril0?label=Follow&style=social)](https://github.com/GuiGril0)
 
-- I'm currently learning OutSystems <a href ="#" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/OutSystems.png?raw=true" alt="OutSystems" width="30" height="30"/> </a>
+- I'm currently working with OutSystems <a href ="#" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/OutSystems.png?raw=true" alt="OutSystems" width="30" height="30"/> </a>
 - I did an internship at KPMG Portugal <a href ="#" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/KPMG_logo.svg.png?raw=true" alt="KPMG" width="40" height="30"/> </a>
+- I'm currently working at KPMG Portugal as an OutSystems Advisor  <a href ="#" target="_blank" rel="noreferrer"> <img src="https://github.com/BichoTraveco/BichoTraveco/blob/main/Images/KPMG_logo.svg.png?raw=true" alt="KPMG" width="40" height="30"/> </a>
 
 
 ## Languages:
